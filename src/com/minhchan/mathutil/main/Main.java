@@ -12,6 +12,6 @@ import com.minhchan.mathutil.core.MathUtil;
 public class Main {
     public static void main(String[] args) {
         
-        System.out.println(MathUtil.getFactorial(0));
+        System.out.println(MathUtil.getFactorial(5));
     }
 }
